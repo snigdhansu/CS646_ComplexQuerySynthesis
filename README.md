@@ -63,7 +63,7 @@ Below are links to the project resources, organized by dataset and methodology:
   - [T5-CPQG + GPT 2.0 Fine Tuned +Ranking:](https://colab.research.google.com/drive/1pL0_aK8dUptPMA9TOiVy02MR_CEQygw7#scrollTo=qkusKjh2OEw1)
 
 - [T5-CPQG + Cross Encoder Fine Tuned]
-  - [Cross Encoder Fine-Tuned](https://colab.research.google.com/drive/16kiVzbck4UBS0a5XBYdOPH3RGuqh5J4Y?usp=sharing)
+  - [Cross Encoder Fine-Tuned](https://colab.research.google.com/drive/1bSoaOT0wccUJYCVbKfM9GvqVGKNMkkbp)
   - [T5-CPQG + Cross Encoder Fine Tuned + Ranking:](https://colab.research.google.com/drive/1X-VIqsA9dbOteNlDECIXEnoLPWiDJGDk)
 - [T5-CPQG + T5-small Fine Tuned](https://colab.research.google.com/drive/1h93vjO2kAHgOP4xvp-T4aufkzs2Jt9d2#scrollTo=2RLl47RBzTLf)
 
@@ -73,5 +73,10 @@ Below are links to the project resources, organized by dataset and methodology:
 - T5-CPQG + Cross Encoder Fine Tuned
   - [Model Fine Tuning](https://colab.research.google.com/drive/1zDOG-6qS_0-E_7OoSeJ_eiw9aJGjdUME?usp=sharing)
   - [T5-CPQG + Cross Encoder Fine Tuned + Ranking: ](https://colab.research.google.com/drive/1Z6_9Qsm8AbcK9KoYJdNrbw-H3JKGLYVf)
-- [T5-CPQG + GPT 2.0 Fine Tuned](https://colab.research.google.com/drive/1DGgQTvS_uzl0fnqSKsryhobW3v1ZrGcP?usp=sharing)
+- T5-CPQG + GPT 2.0 Fine Tuned
+  - [GPT 2.0 Fine Tuned](https://colab.research.google.com/drive/1DGgQTvS_uzl0fnqSKsryhobW3v1ZrGcP?usp=sharing)
+  - [T5-CPQG + GPT 2.0 Fine Tuned + Ranking ](https://colab.research.google.com/drive/1l3NHGRGCk6tiOX7x770KP3n3d9jOSEh-)
 - [T5-CPQG + T5-small Fine Tuned](https://colab.research.google.com/drive/14Bxt2JI1Og46m8_8fRytwC631iIViKkM#scrollTo=zjZwwZ_CcHeR)
+
+Data files used for experimenation can be found in this folder :
+https://drive.google.com/drive/folders/191D9QMsCVku2V1aCE0ZlkWvDqCzXlWQ3
