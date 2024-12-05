@@ -1,10 +1,7 @@
 # Complex Query Synthesis for Enhanced Information Retrieval
 
 ## Team Members
-
-- Daksha Ladia
-- Snigdha Ansu
-- Vasileios Vittis
+Daksha Ladia, Snigdha Ansu, Vasileios Vittis
 
 ## Abstract
 
@@ -39,8 +36,8 @@ The project's methodology includes:
 
 The project was evaluated using two datasets:
 
-- **NFCorpus:** Focuses on medical information retrieval.
-- **SciFact:** Tailored for scientific document retrieval.
+- **NFCorpus:** Focuses on medical information retrieval.[](https://huggingface.co/datasets/BeIR/nfcorpus)
+- **SciFact:** Tailored for scientific document retrieval.[](https://huggingface.co/datasets/BeIR/scifact)
 
 ### Evaluation Metrics
 
