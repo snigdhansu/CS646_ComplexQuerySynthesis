@@ -50,7 +50,9 @@ Below are links to the project resources, organized by dataset and methodology:
 
 ### SciFact Dataset
 - [T5-CPQG + GPT 4o-mini (WordNet + Pretrained LLM)](https://colab.research.google.com/drive/12ai6XCKMS7wTzO-Gcy9KCE3B-K5V302X#scrollTo=w5ghpZV5Hhas)
-- [T5-CPQG + Cross Encoder Fine Tuned](https://colab.research.google.com/drive/1zDOG-6qS_0-E_7OoSeJ_eiw9aJGjdUME?usp=sharing)
+- [T5-CPQG + Cross Encoder Fine Tuned]
+  Model Fine Tuning: (https://colab.research.google.com/drive/1zDOG-6qS_0-E_7OoSeJ_eiw9aJGjdUME?usp=sharing)
+  T5-CPQG + Cross Encoder Fine Tuned + Ranking: (https://colab.research.google.com/drive/1Z6_9Qsm8AbcK9KoYJdNrbw-H3JKGLYVf)
 - [T5-CPQG + GPT 2.0 Fine Tuned](https://colab.research.google.com/drive/1DGgQTvS_uzl0fnqSKsryhobW3v1ZrGcP?usp=sharing)
 - [T5-CPQG + T5-small Fine Tuned](https://colab.research.google.com/drive/14Bxt2JI1Og46m8_8fRytwC631iIViKkM#scrollTo=zjZwwZ_CcHeR)
 
