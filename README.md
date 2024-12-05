@@ -36,8 +36,8 @@ The project's methodology includes:
 
 The project was evaluated using two datasets:
 
-- **NFCorpus:** Focuses on medical information retrieval.[](https://huggingface.co/datasets/BeIR/nfcorpus)
-- **SciFact:** Tailored for scientific document retrieval.[](https://huggingface.co/datasets/BeIR/scifact)
+- **NFCorpus:** Focuses on medical information retrieval.[Link](https://huggingface.co/datasets/BeIR/nfcorpus)
+- **SciFact:** Tailored for scientific document retrieval.[Link](https://huggingface.co/datasets/BeIR/scifact)
 
 ### Evaluation Metrics
 
