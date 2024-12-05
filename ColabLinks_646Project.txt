@@ -1,0 +1,33 @@
+﻿* nfcorpus- t5large-with part 1 + part 2(gpt 4o-mini) (wordnet+pretrained LLM)+ part 3
+https://colab.research.google.com/drive/1Vk8GkSuac6HlrY2_W_d4ikQ6Xuu-lQaw#scrollTo=TMJDDTG57UPA 
+
+* scifact- t5large-with part 1 + part 2(gpt 4o-mini) (wordnet+pretrained LLM) + part 3
+https://colab.research.google.com/drive/12ai6XCKMS7wTzO-Gcy9KCE3B-K5V302X#scrollTo=w5ghpZV5Hhas 
+
+   * nfcorpus- t5large-with part 1 + part 2(gpt 2.0 fine tuned) + part 3
+https://colab.research.google.com/drive/1NLgZDXeqPnpQy2ipCKW0uLfcD0H2awzj?usp=sharing
+
+
+   * nfcorpus- t5large-with part 1 + part 2(cross encoder fine tuned) + part 3
+https://colab.research.google.com/drive/16kiVzbck4UBS0a5XBYdOPH3RGuqh5J4Y?usp=sharing
+
+
+   * scifact- t5large-with part 1 + part 2(cross encoder fine tuned) + part 3
+https://colab.research.google.com/drive/1zDOG-6qS_0-E_7OoSeJ_eiw9aJGjdUME?usp=sharing
+
+
+      * scifact- t5large-with part 1 + part 2(gpt 2.0 fine tuned) + part 3
+https://colab.research.google.com/drive/1DGgQTvS_uzl0fnqSKsryhobW3v1ZrGcP?usp=sharing
+
+
+         * scifact- t5large-with part 1 + part 2(t5 fine tuned) + part 3
+https://colab.research.google.com/drive/14Bxt2JI1Og46m8_8fRytwC631iIViKkM#scrollTo=OYRfQ4ySajND 
+
+
+            * nfcorpus- t5large-with part 1 + part 2(t5-small fine tuned) + part 3
+https://colab.research.google.com/drive/1h93vjO2kAHgOP4xvp-T4aufkzs2Jt9d2#scrollTo=2RLl47RBzTLf 
+
+
+
+               * scifact- t5large-with part 1 + part 2(t5-small fine tuned) + part 3
+https://colab.research.google.com/drive/14Bxt2JI1Og46m8_8fRytwC631iIViKkM#scrollTo=zjZwwZ_CcHeR
