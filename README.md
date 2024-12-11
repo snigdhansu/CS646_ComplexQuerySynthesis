@@ -75,5 +75,9 @@ Below are links to the project resources, organized by dataset and methodology:
   - [T5-CPQG + GPT 2.0 Fine Tuned + Ranking ](https://colab.research.google.com/drive/1l3NHGRGCk6tiOX7x770KP3n3d9jOSEh-)
 - [T5-CPQG + T5-small Fine Tuned](https://colab.research.google.com/drive/14Bxt2JI1Og46m8_8fRytwC631iIViKkM#scrollTo=zjZwwZ_CcHeR)
 
+### Baselines
+
+- [BM25, Dense Retrieval, QOQA + BM25, QOQA + Dense Retrieval baseline implementation on SciFact DataSet](https://colab.research.google.com/drive/1s0vHwXiw9W9cNTZid3MS2VbIhgHZv3gk?usp=sharing)
+
 Data files used for experimenation can be found in this folder :
 https://drive.google.com/drive/folders/191D9QMsCVku2V1aCE0ZlkWvDqCzXlWQ3
