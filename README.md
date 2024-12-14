@@ -77,6 +77,7 @@ Below are links to the project resources, organized by dataset and methodology:
 
 ### Baselines
 
+- [BM25, Dense Retrieval, QOQA + BM25, QOQA + Dense Retrieval baseline implementation on NFCorpus DataSet](https://colab.research.google.com/drive/1O7w5PHXLUYObvlbr6oYue-lcNG0lBbVD?usp=sharing)
 - [BM25, Dense Retrieval, QOQA + BM25, QOQA + Dense Retrieval baseline implementation on SciFact DataSet](https://colab.research.google.com/drive/1s0vHwXiw9W9cNTZid3MS2VbIhgHZv3gk?usp=sharing)
 
 Data files used for experimenation can be found in this folder :
